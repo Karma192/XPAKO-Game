@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8adcceba95436cf409a033cf2ef81e5c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - burnFX: {fileID: 5113604805815681734, guid: 86ec02a264de81640850449dc3e4171e, type: 3}
+  - poisonFX: {fileID: 5442859533175924314, guid: e795d268b7568dd4186f26e047919872, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
